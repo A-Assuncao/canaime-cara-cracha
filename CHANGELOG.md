@@ -34,3 +34,4 @@ Este arquivo documenta as mudanças relevantes do projeto. O formato segue a ide
 - Geração de JSON local com os resultados (não é mais salvo)
 
 
+
