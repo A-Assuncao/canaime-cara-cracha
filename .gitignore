@@ -205,3 +205,35 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.id_rsa
+.id_rsa.pub
+.id_rsa_marimo
+.id_rsa_marimo.pub
+.id_rsa_marimo_private
+.id_rsa_marimo_public
+.id_rsa_marimo_private.pub
+.marimo_cache/
+.marimo_cache_v2/
+.marimo_cache_v3/
+.marimo_cache_v4/
+.marimo_cache_v5/
+.marimo_cache_v6/
+.marimo_cache_v7/
+.marimo_cache_v8/
+
+.idea/
+.vscode/
+.cursor/
+.cursorignore
+.cursorindexingignore
+.cursorignore
+
+# Projeto: artefatos gerados
+*.pdf
+cara_cracha_*.pdf
+# Caso algum JSON de teste seja gerado localmente
+pamc_presos.json
+
+# Windows
+Thumbs.db
+Desktop.ini
